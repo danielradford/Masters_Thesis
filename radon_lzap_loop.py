@@ -1,5 +1,5 @@
 #
-# Example script to load a LZAP ROOT output, loop over the events
+# script to load a LZAP ROOT output, loop over the events
 # and then loop over pulses from each of the detectors.
 #
 # Setup:
